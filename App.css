@@ -1,0 +1,26 @@
+ul li {
+    list-style: none;
+    text-decoration: none;
+  
+}
+li{
+    display: inline-block;
+    justify-content: space-between;
+    margin: 30px;
+    list-style-type: none;
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(18, 255, 231);
+    
+
+}
+li:hover{
+    background-color: white;
+    cursor: pointer;
+
+}
+.nav-link {
+    text-decoration: none;
+  }
